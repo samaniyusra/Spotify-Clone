@@ -1,0 +1,23 @@
+* {
+    margin:0;
+    padding: 0;
+
+}
+body {
+    margin-top:100px ;
+    display:flex;
+    align-items:center ;
+    justify-content: center;
+    background-color: #e7d5bf;
+}
+.container {
+    /* display:flex;
+    align-items:center ;
+    justify-content: center; */
+    background-color: beige;
+    height:34rem;
+    width: 34rem;
+}
+h1 {
+    text-align: center;
+}
